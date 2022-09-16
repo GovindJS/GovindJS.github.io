@@ -5,6 +5,10 @@
 * License: https://bootstrapmade.com/license/
 */
 (function() {
+  // var videoP = document.getElementById("myVideo");
+  // videoP.play();
+  // console.log(video)
+  console.log("hehrhehrer")
   "use strict";
 
   /**
